@@ -23,14 +23,16 @@ I am passionate about web and software development, and I particularly like deve
 
 ### Languages and Tools:
 
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/go.svg" />
+<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/go.svg" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
-<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vue-dot-js.svg" />
+<img align="left" alt="Vuejs" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vue-dot-js.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bootstrap.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
 
-_Last updated on 15 Aug 2020_.
+<br />
+
+_Last updated on 15 Aug 2020._
