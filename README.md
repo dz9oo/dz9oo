@@ -9,7 +9,7 @@ I'm PhD in acoustics who's transitioning into Software Engineering/Full stack de
 
 I am passionate about web and software development, and I particularly like developing in Go language.
 
-&nbsp;
+<br />
 
 ### 👩‍💻 What I use
 
@@ -32,6 +32,5 @@ I am passionate about web and software development, and I particularly like deve
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
-<img align="left" alt="Jasmine" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jasmine.svg" />
 
 _Last updated on 15 Aug 2020_.
