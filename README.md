@@ -7,7 +7,6 @@
 
 I'm PhD in acoustics who's transitioning into Software Engineering/Full stack developer.  I am working on a start-up creation project at Alacrity France incubator/accelerator. This project consists of developing a software solution for locating illegal RF sources.
 
-I am passionate about web and software development, and I particularly like developing in Go language.
 
 <br />
 
@@ -32,7 +31,5 @@ I am passionate about web and software development, and I particularly like deve
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mysql.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mongodb.svg" />
-
-<br />
-
-_Last updated on 15 Aug 2020._
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apple.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg" />
