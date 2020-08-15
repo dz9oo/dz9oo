@@ -5,9 +5,9 @@
 
 <a href="url"><img src="https://github.com/dz9oo/dz9oo/blob/master/gopher.gif" align="left" height="130" width="130" ></a>
 
-```
-I'm PhD in acoustics who's transitioning into Software Engineering/Full stack developer.  I am working on a start-up creation project at Alacrity France incubator/accelerator. This project consists of developing a software solution for locating illegal RF sources.
-```
+
+*I'm PhD in acoustics who's transitioning into Software Engineering/Full stack developer.  I am working on a start-up creation project at Alacrity France incubator/accelerator. This project consists of developing a software solution for locating illegal RF sources.*
+
 
 <br />
 <br />
