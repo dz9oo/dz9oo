@@ -16,7 +16,7 @@
 
 - 💻 Backend and core software: Go & Python.
 - 🔭 Front-end: Node.js, Vue.js, Graphql, MongoDB, MySQL. 
-- 🌱 I’m currently learning Machine Learning 🚀.
+- 🌱 I’m currently learning Rust & Machine Learning 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Go.
 - 💻 I have worked on Python, HTML/CSS, Javascript, Reactjs, Angular, Expressjs, MySQL, MongoDB, Git, Docker.
 
